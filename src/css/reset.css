@@ -1,0 +1,15 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box; 
+   /*Box-sizing: border-box serve para trabalhar com largura e altura de forma mais fácil, ao invés de ficar fazendo alguns cálculos*/ 
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
